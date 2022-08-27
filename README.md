@@ -1,2 +1,2 @@
-# AI-Assignment-1
+# AI-Assignments
 Assignment no 1 of PIAIC AI Course
